@@ -13,7 +13,7 @@ Our goal is to analyze this dataset and explore for notable patterns regarding t
 1. Analyze default risk results.
 
 This dataset is considerably more complicated than the Grocery Sales dataset; it is taken from [a Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/data), which provides the following diagram to explain its contents:
-<img src='./Kaggle - Home Credit Schema.png'>
+<img src='./Home Credit Schema 2.png'>
 
 We are also provided with a definition of every column in every dataset, and an example submission file for Kaggle.
 
